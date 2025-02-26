@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../desafio-js-projeto_inicial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desafio-js-projeto_inicial"
+	}
+}
